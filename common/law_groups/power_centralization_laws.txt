@@ -1,0 +1,7 @@
+﻿# Power Centralization Act
+lawgroup_power_centralization = {
+	law_group_category = power_structure
+	
+	progressive_movement_chance = 0.25
+	regressive_movement_chance = 5	
+}

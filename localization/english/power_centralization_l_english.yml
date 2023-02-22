@@ -1,0 +1,37 @@
+﻿l_english:
+
+# Power Centralization Law
+lawgroup_power_centralization:0 "Power Centralization"
+lawgroup_power_centralization_desc:0 "The centralization degree of a nation."
+
+
+# Decentralized
+law_power_centralization_decentralized:0 "Decentralized"
+law_power_centralization_decentralized_desc:0 "The goverment is only a leader on paper"
+
+
+# Confederation
+law_power_centralization_confederation:0 "Confederation"
+law_power_centralization_confederation_desc:0 "A loose union of indepentent states"
+
+
+# Feudalism
+law_power_centralization_feudalism:0 "Feudalism"
+law_power_centralization_feudalism_desc:0 "Local goverment behave on it's own, while be loyal to central goverment"
+
+
+# Federation
+law_power_centralization_federation:0 "Federation"
+law_power_centralization_federation_desc:0 "Local goverment have more right to decide it's own affair"
+
+
+# Unitary
+law_power_centralization_unitary:0 "Unitary"
+law_power_centralization_unitary_desc:0 "Strong central goverment with almost no local goverment"
+
+
+# Tool tip
+colonizable_tt:0 "Can be colonized"
+colonizable_with_claim_tt:0 "Can be colonized with claim and colonization rights"
+cant_be_conquared_tt:0 "Others can't conquer or annex you"
+can_annext_subject_tt:0 "Can annex protectorate When relation is high enough"
