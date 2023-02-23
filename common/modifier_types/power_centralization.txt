@@ -1,0 +1,19 @@
+﻿country_colonizable = {
+	neutral = yes
+	boolean = yes
+}
+
+country_colonizable_with_claim = {
+	neutral = yes
+	boolean = yes
+}
+
+country_cant_be_conquared = {
+	good = yes
+	boolean = yes
+}
+
+country_can_annext_subject = {
+	good = yes
+	boolean = yes
+}

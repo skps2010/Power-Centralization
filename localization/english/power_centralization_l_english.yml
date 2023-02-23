@@ -30,8 +30,8 @@ law_power_centralization_unitary:0 "Unitary"
 law_power_centralization_unitary_desc:0 "Strong central goverment with almost no local goverment"
 
 
-# Tool tip
-colonizable_tt:0 "Can be colonized"
-colonizable_with_claim_tt:0 "Can be colonized with claim and colonization rights"
-cant_be_conquared_tt:0 "Others can't conquer or annex you"
-can_annext_subject_tt:0 "Can annex protectorate When relation is high enough"
+# modifier
+modifier_country_colonizable:0 "Can be colonized"
+modifier_country_colonizable_with_claim:0 "Can be colonized with claim and colonization rights"
+modifier_country_cant_be_conquared:0 "Others can't conquer or annex you"
+modifier_country_can_annext_subject:0 "Can annex protectorate when relation is high"
